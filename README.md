@@ -1,5 +1,7 @@
 ## Ola!! Sou o Caio Ribas Apocalypse Nogueira!👋
-### Ja fiz de tudo um pouco, hoje com 35 anos, estou me dedicando a programação.
+### Ja fiz de tudo um pouco, hoje com 35 anos, estou me dedicando a programação e logo logo estarei me aplicando para vagas!
+### Estou fazendo o curso do Igor do ProgramdadorBR!
+
 ##
 
 <div align="center">
