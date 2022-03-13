@@ -1,5 +1,5 @@
 ## Ola!! Sou o Caio Ribas Apocalypse Nogueira!👋
-
+### Ja fiz de tudo um pouco, hoje com 35 anos, estou me dedicando a programação.
 ##
 
 <div align="center">
