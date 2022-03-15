@@ -1,4 +1,12 @@
-## Ola!! Sou o Caio Ribas Apocalypse Nogueira!👋
+## Hi there!! I´am Caio Ribas Apocalypse Nogueira!👋
+
+🖥 Full Stack Developer Estudent<br>
+🌎I´m from Brazil<br>
+🌎I´m living in Portugal since 2017<br>
+📚I’m currently learning everything about technology and software development.<br>
+📢2022 Goals: find a new job and learning more about Full-stack and technology.<br>
+
+## About me
  Ja fiz de tudo um pouco, hoje com 35 anos, estou me dedicando a programação e logo logo estarei me aplicando para vagas!
  Estou fazendo o curso do Igor do ProgramdadorBR e usando o Github para iniciar meu portfolio! 
  Então aqui voce ira ver desde o basico até o avançado(quando eu chegar!rs)
