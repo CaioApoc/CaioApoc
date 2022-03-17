@@ -6,11 +6,14 @@
 📚I’m currently learning everything about technology and software development.<br>
 📢2022 Goals: find a new job and learning more about Full-stack and technology.<br>
 
-## About me
+## Sobre mim / About me 
  Ja fiz de tudo um pouco, hoje com 35 anos, estou me dedicando a programação e logo logo estarei me aplicando para vagas!
  Estou fazendo o curso do Igor do ProgramdadorBR e usando o Github para iniciar meu portfolio! 
  Então aqui voce ira ver desde o basico até o avançado(quando eu chegar!rs)
 
+ I've done a little of everything, now with 35 years old, I'm dedicating myself to programming and soon I'll be applying for vacancies!
+  I'm taking Igor's course from ProgramdadorBR and using Github to start my portfolio!
+  So here you will see from basic to advanced (I hope!) 
 ##
 
 <div align="center">
