@@ -7,13 +7,18 @@
 📢2022 Goals: find a new job and learning more about Full-stack and technology.<br>
 
 ## Sobre mim / About me 
- Ja fiz de tudo um pouco, hoje com 35 anos, estou me dedicando a programação e logo logo estarei me aplicando para vagas!
- Estou fazendo o curso do Igor do ProgramdadorBR e usando o Github para iniciar meu portfolio! 
- Então aqui voce ira ver desde o basico até o avançado!
+ Desenvolvedor Front-end com experiencia no uso de HTML,CSS,JavaScript,React e BootStrap.
 
- I've done a little of everything, now with 35 years old, I'm dedicating myself to programming and soon I'll be applying for vacancies!
-  I'm taking Igor's course from ProgramdadorBR and using Github to start my portfolio!
-  So here you will see from basic to advanced! 
+Atualmente estou me dedicando ao curso Desenvolvedor Full Stack do ProgramadorBR e meus projetos no Github, onde alem de aprimorar
+quero aprender mais sobre o Back-end e me tornar um Full Stack. Estou em busca de oportunidades que me permitam desenvolver e me aprimorar,como pessoa e como programador.
+
+Com 35 anos, Brasileiro, morando em Portugal a 6 anos, ja fiz de tudo um pouco! 
+De iniciar ciencia da computacao a trabalhar com tecelagem, de fazer chapeu manualmente a lavar carros!
+
+Hoje, estou me dedicando a programação para migrar para a area de TI, onde mesmo não estando na area,
+ela sempre esteve presente na minha vida.
+
+ 
 ##
 
 <div align="center">
