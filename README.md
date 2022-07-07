@@ -7,13 +7,13 @@
 📢2022 Goals: find a new job and learning more about Full-stack and technology.<br>
 
 ## Sobre mim / About me 
-Desenvolvedor Front-end com experiência no uso de HTML, CSS, JavaScript, React e BootStrap.
+Desenvolvedor Front-end com experiência no uso de HTML, CSS, JavaScript, React, React Native e BootStrap.
 Atualmente estou me dedicando a cursos de Desenvolvedor Full Stack bem como aos meus projetos no Github onde, além de aprimorar minhas habilidades, também almejo aprofundar meus conhecimentos sobre o Back-end e me tornar um Full Stack. Busco oportunidades que permitam me desenvolver tanto no âmbito profissional como no pessoal. 
 Com 35 anos, brasileiro, morando em Portugal há 6 anos, já fiz de tudo um pouco! Desde cursar o início de uma graduação em ciência da computação até iniciar minha empresa de lava-jato. 
 Hoje estou me dedicando a programação para migrar para a área de TI, que sempre esteve indiretamente presente na minha vida.
 Sou uma pessoa facil de lidar, me adapto facilmente e estou sempre aberto a novas idéias.
 
-Front-end developer with experience using HTML, CSS, JavaScript, React and BootStrap.
+Front-end developer with experience using HTML, CSS, JavaScript, React, React Native and BootStrap.
 I'm currently dedicating myself to Full Stack Developer courses as well as my projects on Github where, in addition to improving my skills, I also aim to deepen my knowledge about the Back-end and become a Full Stack. I am looking for opportunities that allow me to develop both professionally and personally.
 At 35 years old, Brazilian, living in Portugal for 6 years, I've done a little bit of everything! From taking an undergraduate degree in computer science to starting my car wash company.
 Today I'm dedicating myself to programming to migrate to the IT area, which has always been indirectly present in my life.
